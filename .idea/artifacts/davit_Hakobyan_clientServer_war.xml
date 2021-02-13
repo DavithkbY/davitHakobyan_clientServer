@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="davit_Hakobyan_clientServer:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/davit_Hakobyan_clientServer_war</output-path>
+    <root id="archive" name="davitHakobyan_clientServer_war.war">
+      <element id="artifact" artifact-name="davitHakobyan_clientServer:war exploded" />
+    </root>
+  </artifact>
+</component>
